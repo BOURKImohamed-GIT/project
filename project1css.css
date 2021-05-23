@@ -1,0 +1,48 @@
+/*start header*/
+a {text-decoration: none; color: black;}
+ul , li {font-family:'Fredoka One', cursive;}
+h1,h3,h4,h5,h6,p { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+.head{ height:450px ;background-image: url("images/6d7115f9-eecd-4c02-a337-53942d130eec.jpg"); background-position: center top; background-repeat: no-repeat; background-size:cover; text-align: center; padding: 2px;}
+.container{width: 800px; margin:auto;}
+.head h1 {font-size:50px; letter-spacing: 3px; color:black;  width: fit-content; position:relative; left:200px ;} /* background-color:burlywood ;  width:400px; position:relative; left: 200px; ANA 7ATET WIDTH TA ZABET EL BACKGROUND 3LAYA W YETLA3 EL BG BEL NOSS MA3A KAMEN*/ 
+.head button {background:none; width: 200px; height: 50px; font-size: 25px; font-family:'Permanent Marker', cursive;}
+/*end header*/
+/*start menu*/
+.menu{height: 40px; background-color: darkturquoise; padding-top: 20px;}
+.menu .container h2{color: darkslateblue; float: left; position: relative; bottom:35px ;}
+.menu .container ul{list-style:none;}
+.menu .container ul li {float:left; color:darkslateblue; position: relative; bottom: 10px; margin-left: 30px;}
+.menu .container ul li:hover{ color:black; border:darkslateblue solid 3px;}
+.menu .container h2:hover{color:black; background-color:darkslateblue;border-left: 3px; border-right: 3px;;}
+/*end menu*/
+/*start content*/
+.products{margin-top: 20px;}
+.products .container .box1 {float:left; width: 40%; ;line-height: 1.5;  }
+.products .container .image{float: left; width:68%; position:relative; left:300px; bottom:110px;}
+.clear{clear: both;}
+.products .container .box2 .b1 { float: right; width: 20%; text-align: center; position:relative; bottom: 150px; padding-left: 60px;}
+.products .container .box2 .b1 img {width: 100%;}
+/*end content*/
+/*start path*/
+.path .container h1 {text-align: center;}
+.path .container .b2 {float: left; width:25%; text-align:center;}
+.path .container .b2 image { float: left; width:100%;}
+/*end path*/
+/*start footer*/
+.footer {background-color: darkslateblue; height:400px; color: #ffff; margin-top: 40px; }
+.footer .container .part1 {float:left;width:45% ; text-align: center;}
+.footer .container .part1 p {text-align:center; line-height: 1.5; max-width: 80%; position: relative; left:30px; word-break: break-all; }
+.footer .container form {float:right;}
+.footer .container form input , .footer .container form textarea , .footer .container form button{margin: 30px;}
+.container form textarea {width: 200px;}
+.footer button {width: 200px; height: 40px; background-color:darkslateblue; color:white; border-radius:30px;}
+.footer button:hover {background-color:darkturquoise; transition: 0.7s;}
+
+/*end footer*/
+.end {height:40px; padding-bottom:40px; background-color:darkturquoise;} /*hata nsale7 ekher bug men tahet na3mla nafs lon w ma yetla3 abyad*/
+.end h5 {position:relative; right: 250px; bottom: 20px; font-family:'Akaya Telivigala', cursive;}
+.end ul {position: relative; left:273px; font-size: large; bottom:20px;}
+
+.finish{ height:40px; padding-top:10px ; background-color: darkturquoise; text-align: center; }
+
+
